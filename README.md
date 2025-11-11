@@ -1,0 +1,1 @@
+Para visualizar el archivo con el código fuente es necesario ingresar por la ruta src>main>java>com>savi>usermodule y allí se encuentra el código para los controladores, el modelo y repositorio, además la clase de java main llamada SaviUserModuleAplication.java que se debe ejecutar en el framework spring
